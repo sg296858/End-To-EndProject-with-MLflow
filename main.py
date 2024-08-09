@@ -1,5 +1,7 @@
 from src.mlProject import logger
-from mlProject.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
+#from mlProject.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
+
+from src.mlProject.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
 
 
 
